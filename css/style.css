@@ -1,0 +1,22 @@
+body
+{
+    height: 300px;
+    width: 300px;
+}
+#example
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+
+
+p
+{
+   color: yellow;
+}
+p
+{
+    color: red;
+}
